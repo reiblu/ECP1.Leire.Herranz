@@ -26,4 +26,16 @@ public class Ejercicio1 {
 
     }
 
+    public void release1() {
+
+    }
+
+    public void release2() {
+
+    }
+
+    public void release3() {
+
+    }
+
 }
